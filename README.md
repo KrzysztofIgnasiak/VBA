@@ -7,7 +7,7 @@ ProjektVBA enable to calculate statistics based on choosen stocks.
 Wycena_Opcji enable to calculate option price based on one of three methods:
 <br>
 <ol>
-  <li> Symulacja Monte Carlo </li>
-  <li> Drzewa Dwumianowe </li>
-  <li> Wzór Blacka-Scholesa </li>
+  <li> Monte Carlo simulation </li>
+  <li> binomal trees </li>
+  <li> black scholes equation  </li>
 </ol>
